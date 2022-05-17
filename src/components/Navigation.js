@@ -19,7 +19,8 @@ const Navigation = () => {
 </Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Features</a>
+<Link className="nav-link" to="/search">Search Book
+</Link>
         </li>
         
       </ul>
